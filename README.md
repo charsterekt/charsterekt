@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv, but my friends call me Chari</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charsterekt&label=Profile%20views&color=0e75b6&style=flat" alt="charsterekt" /> </p>
+
+- 🌱 I’m currently learning **CyberSec, AI/ML and Full-Stack site/app development**
+
 - 👨‍💻 All of my projects are available at [github.com/charsterekt](github.com/charsterekt)
 
 - 📫 How to reach me **rajesh.dhruvk@gmail.com**
@@ -8,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/the.dee.kay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dee.kay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/d k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d k" height="30" width="40" /></a>
-<a href="https://discord.gg/417387714367979520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="417387714367979520" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dk" height="30" width="40" /></a>
+<a href="https://discord.gg/3MFHXeKK3Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3MFHXeKK3Y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
