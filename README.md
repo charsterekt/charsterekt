@@ -16,6 +16,8 @@
 <a href="https://discord.gg/3MFHXeKK3Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3MFHXeKK3Y" height="30" width="40" /></a>
 </p>
 
-
+![tech_stack_1](http://url/to/img.png)
+![tech_stack_2](http://url/to/img.png)
+![tech_stack_3](http://url/to/img.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charsterekt&hide=html,css,ejs&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)                                     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyoxg2b2uauodiaws95qkkl9c&cover_image=true&theme=default&bar_color=5872f3)](https://github.com/kittinan/spotify-github-profile)
