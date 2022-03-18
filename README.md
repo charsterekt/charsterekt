@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv, but my friends call me Chari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charsterekt&label=Profile%20views&color=0e75b6" alt="charsterekt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charsterekt&label=Profile%20views&color=0e75b6" alt="charsterekt" unsafe-inline/> </p>
 
 - 🌱 I’m currently learning **CyberSec, AI/ML and Full-Stack site/app development**
 
