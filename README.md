@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv, but my friends call me Chari</h1>
-![Profile views](https://gpvc.arturio.dev/charsterekt)
+<span>![Profile views](https://gpvc.arturio.dev/charsterekt)</span>
 
 - 🌱 I’m currently learning **CyberSec, AI/ML and Full-Stack site/app development**
 
