@@ -20,4 +20,5 @@
 ![tech_stack_2](https://github.com/charsterekt/charsterekt/blob/main/tech%20stack%202.png)
 ![tech_stack_3](https://github.com/charsterekt/charsterekt/blob/main/tech%20stack%203.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charsterekt&hide=html,css,ejs&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)                                     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyoxg2b2uauodiaws95qkkl9c&cover_image=true&theme=default&bar_color=5872f3)](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charsterekt&hide=html,css,ejs&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyoxg2b2uauodiaws95qkkl9c&cover_image=true&theme=default&bar_color=5872f3)](https://github.com/kittinan/spotify-github-profile)
