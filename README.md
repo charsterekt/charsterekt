@@ -17,16 +17,16 @@
 </p>
 
 <div>
-Languages: C, C++, Dart, Golang, Java, JS/TS, Ruby, Rust, PHP, Python
-AI / ML: PyTorch, Tensorflow, Keras, Numpy, Pandas, SciKit, Seaborn, Matplotlib, Stable Baselines, OpenAI, HuggingFace
-Databases: MySQL, SQLite, Firebase, MongoDB, Redis, GraphQL, PostgreSQL
-Mobile: Android, Flutter, React Native, Expo
-Frontend: HTML5, CSS3, SASS, Bootstrap, MaterialUI, Tailwind, React/Next.js, Vue/Nuxt.js, Svelte/Sveltekit, Three.js, Chart.js
-Backend: Django/Flask/FastAPI, Node/Express, Ruby on Rails,
-Cloud: GCP, Heroku, Vercel, Netlify, AWS
-Graphic Design: Blender 3D, Figma, Canva, Adobe Suite
-OS: Linux, Windows, Bash Scripting
-Version Control: Git
+<p>Languages: C, C++, Dart, Golang, Java, JS/TS, Ruby, Rust, PHP, Python</p>
+<p>AI / ML: PyTorch, Tensorflow, Keras, Numpy, Pandas, SciKit, Seaborn, Matplotlib, Stable Baselines, OpenAI, HuggingFace</p>
+<p>Databases: MySQL, SQLite, Firebase, MongoDB, Redis, GraphQL, PostgreSQL</p>
+<p>Mobile: Android, Flutter, React Native, Expo</p>
+<p>Frontend: HTML5, CSS3, SASS, Bootstrap, MaterialUI, Tailwind, React/Next.js, Vue/Nuxt.js, Svelte/Sveltekit, Three.js, Chart.js</p>
+<p>Backend: Django/Flask/FastAPI, Node/Express, Ruby on Rails</p>
+<p>Cloud: GCP, Heroku, Vercel, Netlify, AWS</p>
+<p>Graphic Design: Blender 3D, Figma, Canva, Adobe Suite</p>
+<p>OS: Linux, Windows, Bash Scripting</p>
+<p>Version Control: Git</p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charsterekt&hide=html,css,ejs&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
