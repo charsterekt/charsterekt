@@ -16,7 +16,7 @@
 <a href="https://discord.gg/3MFHXeKK3Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3MFHXeKK3Y" height="30" width="40" /></a>
 </p>
 <br>
-------
+
 <div>
   <h3>Skills:</h3>
   <p><strong>Languages</strong>: C, C++, Dart, Golang, Java, JS/TS, Ruby, Rust, PHP, Python</p>
