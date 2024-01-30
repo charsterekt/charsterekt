@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **CyberSec, AI/ML and Full-Stack site/app development**
 
-- 👨‍💻 All of my projects are available at [github.com/charsterekt](github.com/charsterekt)
+- 👨‍💻 All of my projects are available at [github.com/charsterekt](github.com/charsterekt) and for the most part consist of learning experiments throughout my journey as a developer.
 
 - 📫 How to reach me: **rajesh.dhruvk@gmail.com**
 
