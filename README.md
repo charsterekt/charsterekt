@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv, but my friends call me Chari</h1>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
 
 - 🌱 I’m currently learning **CyberSec, AI/ML and Full-Stack site/app development**
 
